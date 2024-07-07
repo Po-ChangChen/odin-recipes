@@ -1,1 +1,2 @@
 # odin-recipes
+So far, I have learned the basics of how to use git, github, linux environment commands (I'm using WSL2), and html. I will now create a website to discuss a recipe. I think I am going to make a recipe on boba milk tea because I recently drank this. 
