@@ -8,6 +8,9 @@
     margin: 0 auto;
 }
 
+p {
+    text-align: center;
+}
 ul, ol, p, a {
     font-size: larger;
 }
@@ -23,7 +26,7 @@ ul, ol {
 }
 
 body {
-    background-color: rgb(27, 27, 27);
+    background-color: rgb(25, 25, 25);
 }
 
 img {
@@ -31,4 +34,5 @@ img {
     margin-left: auto;
     margin-right: auto;
     height: 450px;
+    border-radius: 30px;
 }
