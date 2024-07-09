@@ -1,11 +1,21 @@
-p li {
+* {
     color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+ul, ol, p, a {
+    font-size: larger;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
 }
 
 body {
-    background-color: black;
-}
-
-h1 h2 {
-    color: darkgray;
+    background-color: rgb(27, 27, 27);
 }
