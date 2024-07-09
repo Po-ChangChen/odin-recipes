@@ -19,3 +19,10 @@ ul, ol {
 body {
     background-color: rgb(27, 27, 27);
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
