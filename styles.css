@@ -1,10 +1,11 @@
 * {
-    color: lightblue;
+    color: lightgray;
     font-family: Arial, sans-serif;
 }
 
 .container {
-    text-align: center;
+    width: 800px;
+    margin: 0 auto;
 }
 
 ul, ol, p, a {
@@ -12,8 +13,13 @@ ul, ol, p, a {
 }
 
 ul, ol {
-    display: inline-block;
+    list-style-position: inside;
+    display: block;
+    border-radius: 30px;
     text-align: left;
+    background-color: rgb(50, 50, 50);
+    line-height: 2;
+    padding: 10px;
 }
 
 body {
@@ -24,5 +30,5 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    height: 450px;
 }
