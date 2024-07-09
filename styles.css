@@ -1,11 +1,11 @@
-p {
+p li {
     color: lightblue;
 }
 
 body {
-    background-color: darkgray;
+    background-color: black;
 }
 
-h1 {
+h1 h2 {
     color: darkgray;
 }
