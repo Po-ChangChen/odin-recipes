@@ -4,3 +4,5 @@ So far, I have learned the basics of how to use git, github, linux environment c
 
 Julu 9, 2024 \
 Added css to the website, it looks much better!
+
+https://po-changchen.github.io/odin-recipes/
